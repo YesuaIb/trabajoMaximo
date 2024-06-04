@@ -10,3 +10,44 @@ En este proyecto los objetivos son los siguientes:
 8. Al finalizar el combate el usuario podrá guardar **la partida (.txt), seguir jugando o salir sin guardar**.
 
 
+## Plan de Implementación
+
+1. **Crear un menú principal**  
+   Este menú permitirá al usuario:
+   - Cargar una partida
+   - Generar una nueva partida
+   - Salir del programa
+
+2. **Crear un menú de selección de monstruo**  
+   El usuario podrá seleccionar contra qué especie de monstruo quiere combatir. Cada monstruo tendrá características únicas.
+
+3. **Definir las características únicas de cada monstruo**  
+   Cada especie de monstruo tendrá sus propios atributos (fuerza, resistencia, etc.) y habilidades especiales.
+
+4. **Crear un menú para la creación de personajes**  
+   El usuario podrá:
+   - Dar un nombre a su personaje
+   - Seleccionar un arma de entre cuatro opciones disponibles
+
+5. **Crear un menú de combate**  
+   El jugador podrá elegir entre las siguientes acciones:
+   - Atacar
+   - Esquivar
+   - Curarse (usando un objeto limitado)
+
+6. **Definir las acciones del monstruo en combate**  
+   El monstruo podrá:
+   - Atacar
+   - Enfadarse (Rage)
+   - Esperar
+
+7. **Implementar el sistema de recompensas**  
+   Al ganar, existe la posibilidad de encontrar pociones:
+   - 5% de encontrar una poción
+   - 3% de encontrar dos pociones
+
+8. **Crear el sistema de guardado de partidas**  
+   El usuario podrá:
+   - Guardar la partida en un archivo .txt
+   - Seguir jugando
+   - Salir sin guardar
