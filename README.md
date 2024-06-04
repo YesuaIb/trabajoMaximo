@@ -22,7 +22,7 @@ En este proyecto los objetivos son los siguientes:
    El usuario podrá seleccionar contra qué especie de monstruo quiere combatir. Cada monstruo tendrá características únicas.
 
 3. **Definir las características únicas de cada monstruo**  
-   Cada especie de monstruo tendrá sus propios atributos (fuerza, resistencia, etc.) y habilidades especiales.
+   Cada especie de monstruo tendrá sus propios atributos (fuerza, resistencia, etc.).
 
 4. **Crear un menú para la creación de personajes**  
    El usuario podrá:
